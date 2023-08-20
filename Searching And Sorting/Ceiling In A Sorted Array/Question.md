@@ -1,0 +1,3 @@
+## Ceiling In A Sorted Array - GeeksForGeeks
+
+Given a sorted array and a value <code>x</code>, the ceiling of <code>x</code> is the smallest element in an array greater than or equal to <code>x</code>, and the floor is the greatest element smaller than or equal to <code>x</code>. Assume that the array is sorted in non-decreasing order. Write efficient functions to find the floor and ceiling of <code>x</code>. 
